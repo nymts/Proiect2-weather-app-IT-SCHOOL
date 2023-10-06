@@ -61,9 +61,6 @@ I found the following resources helpful during this project:
 
 - IT School mentorship and Web Development course.
 - Weather API documentation.
-- Mozilla Developer Network (MDN) for web development references.
-- Markdown Guide for creating structured documents.
-- Stack Overflow for finding solutions, such as scrolling to 50% of the viewport height (window.innerHeight).
 
 ## Gratitude
 I would like to express my gratitude to:
