@@ -29,7 +29,7 @@ For the development of this project, I followed these steps:
 2. Step 2 description here.
 3. Step 3 description here.
 
-## Notable Features
+### Notable Features
 Some of the standout features of this project include:
 
 - Using the Current Weather Data API to display real-time weather information for selected cities from a dropdown list.
@@ -37,7 +37,7 @@ Some of the standout features of this project include:
 - Implementing the ability to change the current city using DOM manipulation and Event Handling concepts.
 - Persisting user data across sessions using localStorage.
 
-## Technology Stack
+### Technology Stack
 The technologies used in this project include:
 
 - HTML5
@@ -50,7 +50,7 @@ The technologies used in this project include:
 - Netlify
 - Git / GitHub
 
-## Learning Experience
+### Learning Experience
 During the development of this project, I gained valuable knowledge and skills, including:
 
 - Creating a responsive design for both desktop and mobile screens.
@@ -61,7 +61,7 @@ During the development of this project, I gained valuable knowledge and skills, 
 - Deploying the project on Netlify for public access.
 - Creating a well-structured README.md document using markdown language.
 
-## Handy Resources
+### Handy Resources
 I found the following resources helpful during this project:
 
 - IT School mentorship and Web Development course.
