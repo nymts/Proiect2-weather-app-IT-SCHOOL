@@ -3,16 +3,16 @@
 ## Project 2 - Web Development Course at IT-School, including practical solutions.
 
 ## DEMO
-The project is hosted on Netlify. To view the project, click the Weather App button.
+The project is hosted on Netlify. To view the project, click [here](https://proiect-weather-nm.netlify.app/).
 
 ## Contents
 - [Project Overview](#project-overview)
-- [Live Demonstration](#live-demonstration)
+  - [Live Demonstration](#live-demonstration)
 - [Development Process](#development-process)
-- [Notable Features](#notable-features)
-- [Technology Stack](#technology-stack)
-- [Learning Experience](#learning-experience)
-- [Handy Resources](#handy-resources)
+  - [Notable Features](#notable-features)
+  - [Technology Stack](#technology-stack)
+  - [Learning Experience](#learning-experience)
+  - [Handy Resources](#handy-resources)
 - [Gratitude](#gratitude)
 
 ## Project Overview
@@ -23,17 +23,12 @@ The project is hosted on Netlify. To view the project, click the Weather App but
 | <img src="https://github.com/nymts/proiect-weather-nm/assets/134009663/7b8fc5ad-67a9-4a06-8e54-e395289194a4" alt="Képaláírás" width="250" height=""> | <img src="https://github.com/nymts/proiect-weather-nm/assets/134009663/63dd9597-acd8-4da5-8cba-09a4ec79bae6" alt="Képaláírás" width="700" height=""> |
 
 ## Development Process
-For the development of this project, I followed these steps:
-
-1. Step 1 description here.
-2. Step 2 description here.
-3. Step 3 description here.
 
 ### Notable Features
 Some of the standout features of this project include:
 
-- Using the Current Weather Data API to display real-time weather information for selected cities from a dropdown list.
-- Utilizing the 5-day Weather Forecast API to provide a detailed forecast for the next 5 days with data every 3 hours.
+- Using the [Current Weather Data API](https://openweathermap.org/current) to display real-time weather information for selected cities from a dropdown list.
+- Utilizing the [5-day Weather Forecast API](https://openweathermap.org/forecast5) to provide a detailed forecast for the next 5 days with data every 3 hours.
 - Implementing the ability to change the current city using DOM manipulation and Event Handling concepts.
 - Persisting user data across sessions using localStorage.
 
