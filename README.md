@@ -1,4 +1,4 @@
-## Project 2 - Weather app - Web Development Course at IT-School, including practical solutions.
+# Weather app - IT-School
 
 ## DEMO
 The project is hosted on Netlify. To view the project, click [here](https://proiect-weather-nm.netlify.app/).
