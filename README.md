@@ -1,6 +1,4 @@
-# Vremea IT-School
-
-## Project 2 - Web Development Course at IT-School, including practical solutions.
+## Project 2 - Weather app - Web Development Course at IT-School, including practical solutions.
 
 ## DEMO
 The project is hosted on Netlify. To view the project, click [here](https://proiect-weather-nm.netlify.app/).
