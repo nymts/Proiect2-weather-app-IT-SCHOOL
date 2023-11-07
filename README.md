@@ -16,8 +16,8 @@ The project is hosted on Netlify. To view the project, click [here](https://proi
 ## Project Overview
 
 ### Live Demonstration
-| Smartphone screen | Desktop screen |
-|----------|----------|
+| Smartphone screen | Tablet screen | Desktop screen | 
+|----------|----------|----------|
 | <img src="https://github.com/nymts/proiect-weather-nm/assets/134009663/7b8fc5ad-67a9-4a06-8e54-e395289194a4" alt="Képaláírás" width="250" height=""> | <img src="https://github.com/nymts/proiect-weather-nm/assets/134009663/63dd9597-acd8-4da5-8cba-09a4ec79bae6" alt="Képaláírás" width="700" height=""> |
 
 ## Development Process
